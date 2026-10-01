@@ -1,0 +1,6 @@
+<drawables>
+    <drawable-list id="LauncherIcon" background="000000">
+        <shape type="rectangle" x="4" y="4" width="32" height="32" color="FFFFFF"/>
+        <shape type="circle" x="12" y="12" radius="8" color="000000"/>
+    </drawable-list>
+</drawables>
